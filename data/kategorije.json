@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "naziv":"Žitarice"
+    },
+    {
+        "id":2,
+        "naziv":"Keks"
+    },
+    {
+        "id":3,
+        "naziv":"Kolači"
+    },
+    {
+        "id":4,
+        "naziv":"Slano"
+    },
+    {
+        "id":5,
+        "naziv":"Voćno"
+    },
+    {
+        "id":6,
+        "naziv":"Ostalo"
+    }
+]

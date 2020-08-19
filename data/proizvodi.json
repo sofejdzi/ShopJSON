@@ -1,0 +1,607 @@
+[
+    {
+        "id":1,
+        "slika":{
+            "src": "proizvod-1.jpg",
+            "alt":"Medenjaci"
+        },
+        "naziv":"Medenjaci",
+        "opis":"Sastav: integralno brašno, cimet, med, soda, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":599
+        },
+        "kategorija":[
+            {
+                "id":3,
+                "naziv":"Kolači"
+            }
+        ]
+
+    },
+    {
+        "id":2,
+        "slika":{
+            "src": "proizvod-2.jpg",
+            "alt":"Trouglići"
+        },
+        "naziv":"Trouglići-višnja",
+        "opis":"Sastav: integralno brašno, stevija, soja, višnja, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":359
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":5,
+                "naziv":"Voćno"
+            }
+        ]
+
+    },
+    {
+        "id":3,
+        "slika":{
+            "src": "proizvod-3.jpg",
+            "alt":"Ovseni keks"
+        },
+        "naziv":"Ovseni keks",
+        "opis":"Sastav: integralno brašno, ovsene pahuljice, so, soda, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":450
+        },
+        "kategorija":[
+            {
+                "id":2,
+                "naziv":"Keks"
+            }
+        ]
+
+    },
+    {
+        "id":4,
+        "slika":{
+            "src": "proizvod-4.jpg",
+            "alt":"Trouglići"
+        },
+        "naziv":"Trouglići-malina",
+        "opis":"Sastav: integralno brašno, stevija, soja, malina, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"450",
+            "cena":350
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":5,
+                "naziv":"Voćno"
+            }
+        ]
+
+    },
+    {
+        "id":5,
+        "slika":{
+            "src": "proizvod-5.jpg",
+            "alt":"Čoko-Malina"
+        },
+        "naziv":"Čoko-Malina",
+        "opis":"Sastav: integralno brašno, kakao, med, stevija, jaja, malina",
+        "akcija":true,
+        "cena":{
+            "staraCena":"750",
+            "cena":699
+        },
+        "kategorija":[
+            {
+                "id":3,
+                "naziv":"Kolači"
+            },
+            {
+                "id":5,
+                "naziv":"Voćno"
+            }
+        ]
+
+    },
+    {
+        "id":6,
+        "slika":{
+            "src": "proizvod-6.jpg",
+            "alt":"Čokoladni ovseni keks"
+        },
+        "naziv":"Čoko-ovas keks",
+        "opis":"Sastav: integralno brašno, ovsene pahuljice, kakao, med, soda, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"639",
+            "cena":549
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":2,
+                "naziv":"Keks"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            }
+        ]
+
+    },
+    {
+        "id":7,
+        "slika":{
+            "src": "proizvod-7.jpg",
+            "alt":"Pločice"
+        },
+        "naziv":"Pločice-semenke",
+        "opis":"Sastav: integralno brašno, semenke, so, soda, jaja, soja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":459
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":4,
+                "naziv":"Slano"
+            }
+        ]
+
+    },
+    {
+        "id":8,
+        "slika":{
+            "src": "proizvod-8.jpg",
+            "alt":"Susam štapići"
+        },
+        "naziv":"Susam štapići",
+        "opis":"Sastav: integralno brašno, so, susam, soda, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":399
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":4,
+                "naziv":"Slano"
+            }
+        ]
+
+    },
+    {
+        "id":9,
+        "slika":{
+            "src": "proizvod-9.jpg",
+            "alt":"Ovseni keks"
+        },
+        "naziv":"Voćni-ovas keks",
+        "opis":"Sastav: integralno brašno, ovsene pahuljice, voće, med, soda, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":549
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":2,
+                "naziv":"Keks"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            }
+        ]
+
+    },
+    {
+        "id":10,
+        "slika":{
+            "src": "proizvod-10.jpg",
+            "alt":"Trouglići"
+        },
+        "naziv":"Trouglići-brusnica",
+        "opis":"Sastav: integralno brašno, stevija, soja, brusnica, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"450",
+            "cena":350
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":5,
+                "naziv":"Voćno"
+            }
+        ]
+
+    },
+    {
+        "id":11,
+        "slika":{
+            "src": "proizvod-11.jpg",
+            "alt":"Pločice"
+        },
+        "naziv":"Pločice-lanom",
+        "opis":"Sastav: integralno brašno, semenke, so, soda, jaja, soja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"599",
+            "cena":459
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":4,
+                "naziv":"Slano"
+            }
+        ]
+
+    },
+    {
+        "id":12,
+        "slika":{
+            "src": "proizvod-12.jpg",
+            "alt":"Ovsene pločice-semenke"
+        },
+        "naziv":"Ovsene pločice",
+        "opis":"Sastav: integralno brašno, semenke, lan, ovsene pahuljice, so, soda, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"599",
+            "cena":469
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":4,
+                "naziv":"Slano"
+            }
+        ]
+
+    },
+    {
+        "id":13,
+        "slika":{
+            "src": "proizvod-13.jpg",
+            "alt":"Keks-semenkama"
+        },
+        "naziv":"Keks-semenke",
+        "opis":"integralno brašno, semenke, lan, ovsene pahuljice, so, soda, jaja, soja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":639
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":2,
+                "naziv":"Keks"
+            },
+            {
+                "id":4,
+                "naziv":"Slano"
+            }
+        ]
+
+    },
+    {
+        "id":14,
+        "slika":{
+            "src": "proizvod-14.jpg",
+            "alt":"Čoko-Pločice"
+        },
+        "naziv":"Čoko-Pločice",
+        "opis":"Sastav: integralno brašno, cimet, med, soda, stevija, kakao, lesnik, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":599
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            }
+        ]
+
+    },
+    {
+        "id":15,
+        "slika":{
+            "src": "proizvod-15.jpg",
+            "alt":"Šarene čoko-pločice"
+        },
+        "naziv":"Šarene čoko-pločice",
+        "opis":"Sastav: integralno brašno, cimet, med, soda, stevija, kakao, lesnik, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":499
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            },
+            {
+                "id":6,
+                "naziv":"Ostalo"
+            }
+        ]
+
+
+    },
+    {
+        "id":16,
+        "slika":{
+            "src": "proizvod-16.jpg",
+            "alt":"Keks-brusnicom"
+        },
+        "naziv":"Keks-brusnicom",
+        "opis":"Sastav: integralno brašno, ovsene pahuljice, brusnica, med, soda, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":549
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":2,
+                "naziv":"Keks"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            }
+        ]
+
+    },
+    {
+        "id":17,
+        "slika":{
+            "src": "proizvod-17.jpg",
+            "alt":"Pločice"
+        },
+        "naziv":"Šarene pločice",
+        "opis":"Sastav: integralno brašno, cimet, med, soda, stevija, kakao, lešnik, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":499
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            },
+            {
+                "id":6,
+                "naziv":"Ostalo"
+            }
+        ]
+    },
+    {
+        "id":18,
+        "slika":{
+            "src": "proizvod-18.jpg",
+            "alt":"Badem-Pločice"
+        },
+        "naziv":"Badem-Pločice",
+        "opis":"Sastav: integralno brašno, cimet, med, soda, stevija, kakao, badem, jaja",
+        "akcija":false,
+        "cena":{
+            "staraCena":"",
+            "cena":399
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            },
+            {
+                "id":6,
+                "naziv":"Ostalo"
+            }
+        ]
+
+    },
+    {
+        "id":19,
+        "slika":{
+            "src": "proizvod-19.jpg",
+            "alt":"Voćne pločice"
+        },
+        "naziv":"Voćne pločice",
+        "opis":"Sastav: integralno brašno, med, soda, stevija, kakao, badem, voće, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"659",
+            "cena":499
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":3,
+                "naziv":"Kolači"
+            },
+            {
+                "id":5,
+                "naziv":"Voćno"
+            }
+        ]
+
+    },
+    {
+        "id":20,
+        "slika":{
+            "src": "proizvod-20.jpg",
+            "alt":"Slane pločice-semenkama"
+        },
+        "naziv":"Slane pločice-semenke",
+        "opis":"Sastav: integralno brašno, semenke, lan, ovsene pahuljice, so, soda, jaja, soja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"599",
+            "cena":469
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":4,
+                "naziv":"Slano"
+            }
+        ]
+
+    },
+    {
+        "id":21,
+        "slika":{
+            "src": "proizvod-21.jpg",
+            "alt":"Keks od pirinča"
+        },
+        "naziv":"Keks od pirinča",
+        "opis":"Sastav: pirinač, integralno brašno, semenke, lan, ovsene pahuljice, so, soda, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"599",
+            "cena":439
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":4,
+                "naziv":"Slano"
+            }
+        ]
+
+    },
+    {
+        "id":22,
+        "slika":{
+            "src": "proizvod-22.jpg",
+            "alt":"Šareni voćni keks"
+        },
+        "naziv":"Šareni keks",
+        "opis":"Sastav: integralno brašno, stevija, soja, brusnica, aronija, visnja, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"450",
+            "cena":360
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":2,
+                "naziv":"Keks"
+            },
+            {
+                "id":5,
+                "naziv":"Voćno"
+            }
+        ]
+    },
+    {
+        "id":23,
+        "slika":{
+            "src": "proizvod-23.jpg",
+            "alt":"Šareni lešnik-keks"
+        },
+        "naziv":"Šareni lešnik-keks",
+        "opis":"Sastav: integralno brašno, stevija, soja, lešnik, badem, so, jaja",
+        "akcija":true,
+        "cena":{
+            "staraCena":"470",
+            "cena":389
+        },
+        "kategorija":[
+            {
+                "id":1,
+                "naziv":"Žitarice"
+            },
+            {
+                "id":2,
+                "naziv":"Keks"
+            },
+            {
+                "id":6,
+                "naziv":"Ostalo"
+            }
+        ]
+    }
+]
